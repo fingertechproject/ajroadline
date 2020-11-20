@@ -1,0 +1,156 @@
+*
+h5
+{
+    text-align: center;
+    text-decoration: underline;
+   font-size: 200%;
+   color: #009999;
+}
+html{
+    scroll-behavior:smooth;
+}
+.logo{
+    border-radius:10px;
+       height: 485px;
+    width: 499px;
+
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    text-align:center;
+    background-color:white;
+}
+#im1{
+    display:flex;
+    
+    border-radius:10px;
+     margin: auto;
+    width: 247px;
+}
+#navbar{
+     position:sticky;
+   
+    display:flex;
+    align-items:center;
+    
+    opacity:0.9;
+   
+}
+.menu
+{
+    
+    background-color: #002080;
+   border-radius:10px;
+    text-align:center;
+}
+.menu ul{
+      =
+    display: inline-flex;
+    list-style: none;
+    color: white;
+    
+}
+.menu ul li{
+    width: 60px;
+    margin: 10px;
+    padding: 10px;
+}
+.menu ul li{
+    text-decoration: none;
+    color: white;
+     font-family: 'Playfair Display', serif;
+}
+ .menu ul li:hover{
+    background-color: white;
+   color: black;
+     font-family: 'Playfair Display', serif;
+    text-decoration: underline;
+    background-size:cover;
+    border-radius:10px;
+    
+    
+}
+h3
+{
+    text-align: center;
+    font-size: 200%;
+    color: #009999;
+}
+p3
+{
+    text-align: center;
+}
+h4
+{
+    
+    text-align: center;
+    text-decoration: underline;
+   font-size: 200%;
+   color: #009999;
+}
+p{
+    text-align: center;
+    
+}
+.qlty
+{
+    background-color: whitesmoke;
+   background-size: contain;
+    background-position: center;
+    box-sizing: border-box;
+   font-family: 'Playfair Display', serif;
+    border-radius: 20px;
+}
+h2
+{
+   text-decoration: underline;
+ font-family: 'Playfair Display', serif;
+    font-size: 300%;
+    color: #009999;
+    text-align: center;
+    background-size: cover;
+    
+    border-radius: 20px;
+    border-top-color: seagreen;
+}
+.qlty ul {
+    text-decoration: none;
+    display: inline-flex;
+    border-radius: 10px;
+    background-size: auto;
+    margin: 20px;
+    padding: 20px;
+   
+    
+    
+}
+.qlty ul li{
+    margin: 0px;
+    padding: 0px;
+    font-size: 200%;
+}
+h1
+{
+    text-align: center;
+    font-size: 200%;
+}
+p1
+{
+   text-align:center;
+}
+p2
+{
+    text-align: center;
+}
+}
+.center{
+    text-align:center;
+}
+.ser{
+    color:#002080;
+    font-family: 'Playfair Display', serif;
+}
+#aj ul{
+    text-align:center;
+    color: #009999;
+}
